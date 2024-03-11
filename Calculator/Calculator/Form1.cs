@@ -135,6 +135,12 @@ namespace Calculator
             {
                 DataTable dt = new DataTable();
                 var kq = dt.Compute(bieuthuc, "");
+                if((double)kq==double.PositiveInfinity||(double)kq== double.NegativeInfinity)
+                {
+                    labelHienThi.Text = "Error";
+                    bieuthuc = "";
+                    return;
+                }    
                 labelHienThi.Text = kq + "";
                 bieuthuc = "";
 
@@ -146,6 +152,13 @@ namespace Calculator
 
             }
            
+
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            bieuthuc += " % ";
+            labelHienThi.Text = bieuthuc;
 
         }
     }

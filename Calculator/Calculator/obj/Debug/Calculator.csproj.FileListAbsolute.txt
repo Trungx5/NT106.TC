@@ -11,3 +11,16 @@ D:\WinForm\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
 D:\WinForm\Calculator\Calculator\bin\Debug\StringMath.dll
 D:\WinForm\Calculator\Calculator\bin\Debug\StringMath.xml
 D:\WinForm\Calculator\Calculator\obj\Debug\Calculator.csproj.Up2Date
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\bin\Debug\StringMath.dll
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\bin\Debug\StringMath.xml
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.Up2Date
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Hai Nam\Source\Repos\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.pdb

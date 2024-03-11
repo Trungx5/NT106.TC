@@ -49,6 +49,7 @@
             this.buttonTru = new System.Windows.Forms.Button();
             this.buttonCham = new System.Windows.Forms.Button();
             this.buttonCong = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
@@ -90,7 +91,6 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.Controls.Add(this.buttonBang, 4, 2);
             this.tableLayoutPanel1.Controls.Add(this.button7, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.button8, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.button0, 0, 3);
@@ -108,6 +108,8 @@
             this.tableLayoutPanel1.Controls.Add(this.buttonTru, 3, 2);
             this.tableLayoutPanel1.Controls.Add(this.buttonCham, 2, 3);
             this.tableLayoutPanel1.Controls.Add(this.buttonCong, 3, 3);
+            this.tableLayoutPanel1.Controls.Add(this.buttonBang, 4, 3);
+            this.tableLayoutPanel1.Controls.Add(this.button10, 4, 2);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 168);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.Padding = new System.Windows.Forms.Padding(18);
@@ -125,10 +127,9 @@
             // 
             this.buttonBang.Dock = System.Windows.Forms.DockStyle.Fill;
             this.buttonBang.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Bold);
-            this.buttonBang.Location = new System.Drawing.Point(317, 191);
+            this.buttonBang.Location = new System.Drawing.Point(317, 276);
             this.buttonBang.Name = "buttonBang";
-            this.tableLayoutPanel1.SetRowSpan(this.buttonBang, 2);
-            this.buttonBang.Size = new System.Drawing.Size(68, 167);
+            this.buttonBang.Size = new System.Drawing.Size(68, 82);
             this.buttonBang.TabIndex = 0;
             this.buttonBang.Text = "=";
             this.buttonBang.UseVisualStyleBackColor = true;
@@ -338,6 +339,18 @@
             this.buttonCong.UseVisualStyleBackColor = true;
             this.buttonCong.Click += new System.EventHandler(this.buttonCong_Click);
             // 
+            // button10
+            // 
+            this.button10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button10.Font = new System.Drawing.Font("Microsoft YaHei", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.Location = new System.Drawing.Point(317, 191);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(68, 79);
+            this.button10.TabIndex = 18;
+            this.button10.Text = "%";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -378,6 +391,7 @@
         private System.Windows.Forms.Button buttonTru;
         private System.Windows.Forms.Button buttonCham;
         private System.Windows.Forms.Button buttonCong;
+        private System.Windows.Forms.Button button10;
     }
 }
 
