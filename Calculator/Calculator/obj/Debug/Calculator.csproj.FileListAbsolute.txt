@@ -37,3 +37,16 @@ C:\Users\Hai Nam\Desktop\jj\Calculator\Calculator\obj\Debug\Calculator.csproj.Co
 C:\Users\Hai Nam\Desktop\jj\Calculator\Calculator\obj\Debug\Calculator.csproj.Up2Date
 C:\Users\Hai Nam\Desktop\jj\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Hai Nam\Desktop\jj\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\bin\Debug\StringMath.dll
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\bin\Debug\StringMath.xml
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.csproj.Up2Date
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\learnGit\RepoTrung\NT106.TC\Calculator\Calculator\obj\Debug\Calculator.pdb

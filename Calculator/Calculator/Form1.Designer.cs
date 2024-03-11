@@ -31,7 +31,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.labelHienThi = new System.Windows.Forms.Label();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.buttonBang = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.button0 = new System.Windows.Forms.Button();
@@ -49,6 +48,7 @@
             this.buttonTru = new System.Windows.Forms.Button();
             this.buttonCham = new System.Windows.Forms.Button();
             this.buttonCong = new System.Windows.Forms.Button();
+            this.buttonBang = new System.Windows.Forms.Button();
             this.button10 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
@@ -122,18 +122,6 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(406, 379);
             this.tableLayoutPanel1.TabIndex = 1;
-            // 
-            // buttonBang
-            // 
-            this.buttonBang.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonBang.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Bold);
-            this.buttonBang.Location = new System.Drawing.Point(317, 276);
-            this.buttonBang.Name = "buttonBang";
-            this.buttonBang.Size = new System.Drawing.Size(68, 82);
-            this.buttonBang.TabIndex = 0;
-            this.buttonBang.Text = "=";
-            this.buttonBang.UseVisualStyleBackColor = true;
-            this.buttonBang.Click += new System.EventHandler(this.buttonBang_Click);
             // 
             // button7
             // 
@@ -339,6 +327,18 @@
             this.buttonCong.UseVisualStyleBackColor = true;
             this.buttonCong.Click += new System.EventHandler(this.buttonCong_Click);
             // 
+            // buttonBang
+            // 
+            this.buttonBang.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonBang.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Bold);
+            this.buttonBang.Location = new System.Drawing.Point(317, 276);
+            this.buttonBang.Name = "buttonBang";
+            this.buttonBang.Size = new System.Drawing.Size(68, 82);
+            this.buttonBang.TabIndex = 0;
+            this.buttonBang.Text = "=";
+            this.buttonBang.UseVisualStyleBackColor = true;
+            this.buttonBang.Click += new System.EventHandler(this.buttonBang_Click);
+            // 
             // button10
             // 
             this.button10.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -362,6 +362,7 @@
             this.MinimumSize = new System.Drawing.Size(312, 491);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.panel1.ResumeLayout(false);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);

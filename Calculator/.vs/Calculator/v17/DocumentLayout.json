@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learnGit\\RepoTrung\\NT106.TC\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C579E5B4-B0C2-4BCD-8FFA-DDB96B841CEF}|Calculator\\Calculator.csproj|d:\\learngit\\repotrung\\nt106.tc\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C579E5B4-B0C2-4BCD-8FFA-DDB96B841CEF}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C579E5B4-B0C2-4BCD-8FFA-DDB96B841CEF}|Calculator\\Calculator.csproj|D:\\learnGit\\RepoTrung\\NT106.TC\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C579E5B4-B0C2-4BCD-8FFA-DDB96B841CEF}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 432,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\learnGit\\RepoTrung\\NT106.TC\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\learnGit\\RepoTrung\\NT106.TC\\Calculator\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAqwLcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:55:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\learnGit\\RepoTrung\\NT106.TC\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\learnGit\\RepoTrung\\NT106.TC\\Calculator\\Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:54:41.757Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 432,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
