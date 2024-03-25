@@ -1,0 +1,15 @@
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\bin\Debug\Homework_TCP_Chat.exe.config
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\bin\Debug\Homework_TCP_Chat.exe
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\bin\Debug\Homework_TCP_Chat.pdb
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.AssemblyReference.cache
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.Cilent.resources
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.Server.resources
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.Properties.Resources.resources
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.GenerateResource.cache
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.CoreCompileInputs.cache
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.exe
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.pdb
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\bin\Debug\SimpleTCP.dll
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.CopyComplete
+C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.GiaoDien.resources
