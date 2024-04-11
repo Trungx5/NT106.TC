@@ -28,3 +28,14 @@ C:\Users\Hai Nam\Desktop\newtest\TestGoGame\test\obj\Debug\test.pdb
 C:\Users\Hai Nam\Desktop\newtest\TestGoGame\test\bin\Debug\test.exe.config
 C:\Users\Hai Nam\Desktop\newtest\TestGoGame\test\bin\Debug\test.exe
 C:\Users\Hai Nam\Desktop\newtest\TestGoGame\test\bin\Debug\test.pdb
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\bin\Debug\test.exe.config
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\bin\Debug\test.exe
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\bin\Debug\test.pdb
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.Form1.resources
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.exe
+C:\Users\Trung\source\repos\NT106.TC\CoVayTest\test\obj\Debug\test.pdb

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ChatTCP",
+    "\\CoVayTest\\test"
   ],
-  "SelectedNode": "\\C:\\Users\\Trung\\Source\\Repos\\NT106.TC",
+  "SelectedNode": "\\ChatTCP",
   "PreviewInSolutionExplorer": false
 }
