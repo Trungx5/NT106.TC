@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ChatTCP",
-    "\\CoVayTest\\test"
+    "\\SLLChat",
+    "\\SLLChat\\SLLChat"
   ],
-  "SelectedNode": "\\ChatTCP",
+  "SelectedNode": "\\SLLChat",
   "PreviewInSolutionExplorer": false
 }
