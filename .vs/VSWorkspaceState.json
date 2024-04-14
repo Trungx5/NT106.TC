@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SLLChat",
-    "\\SLLChat\\SLLChat"
+    "\\TCPChat",
+    "\\TCPChat\\TCPChat"
   ],
-  "SelectedNode": "\\SLLChat",
+  "SelectedNode": "\\TCPChat\\TCPChat\\Cilent.cs",
   "PreviewInSolutionExplorer": false
 }

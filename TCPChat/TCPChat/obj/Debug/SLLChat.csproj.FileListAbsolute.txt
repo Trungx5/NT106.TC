@@ -11,3 +11,16 @@ C:\Users\Trung\source\repos\NT106.TC\SLLChat\SLLChat\obj\Debug\SLLChat.csproj.Ge
 C:\Users\Trung\source\repos\NT106.TC\SLLChat\SLLChat\obj\Debug\SLLChat.csproj.CoreCompileInputs.cache
 C:\Users\Trung\source\repos\NT106.TC\SLLChat\SLLChat\obj\Debug\SLLChat.exe
 C:\Users\Trung\source\repos\NT106.TC\SLLChat\SLLChat\obj\Debug\SLLChat.pdb
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\bin\Debug\SLLChat.exe.config
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\bin\Debug\SLLChat.exe
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\bin\Debug\SLLChat.pdb
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.csproj.AssemblyReference.cache
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.Cilent.resources
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.Form1.resources
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.Properties.Resources.resources
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.Server.resources
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.csproj.GenerateResource.cache
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.csproj.CoreCompileInputs.cache
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.exe
+C:\Users\Trung\source\repos\NT106.TC\TCPChat\TCPChat\obj\Debug\SLLChat.pdb

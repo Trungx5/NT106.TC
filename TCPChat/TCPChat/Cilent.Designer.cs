@@ -40,6 +40,9 @@
             this.Send_Msg_Cilent = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.UserName_Input = new System.Windows.Forms.TextBox();
+            this.ImageAdd_Button = new System.Windows.Forms.Button();
+            this.PictureBox_Message = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.PictureBox_Message)).BeginInit();
             this.SuspendLayout();
             // 
             // Server_Disconnect_Button_Cilent
@@ -120,7 +123,7 @@
             // 
             this.Message_Send_Content_Cilent_RichTextBox.Location = new System.Drawing.Point(22, 300);
             this.Message_Send_Content_Cilent_RichTextBox.Name = "Message_Send_Content_Cilent_RichTextBox";
-            this.Message_Send_Content_Cilent_RichTextBox.Size = new System.Drawing.Size(572, 128);
+            this.Message_Send_Content_Cilent_RichTextBox.Size = new System.Drawing.Size(502, 128);
             this.Message_Send_Content_Cilent_RichTextBox.TabIndex = 16;
             this.Message_Send_Content_Cilent_RichTextBox.Text = "";
             // 
@@ -152,11 +155,32 @@
             this.UserName_Input.Size = new System.Drawing.Size(581, 20);
             this.UserName_Input.TabIndex = 19;
             // 
+            // ImageAdd_Button
+            // 
+            this.ImageAdd_Button.Location = new System.Drawing.Point(519, 300);
+            this.ImageAdd_Button.Name = "ImageAdd_Button";
+            this.ImageAdd_Button.Size = new System.Drawing.Size(75, 128);
+            this.ImageAdd_Button.TabIndex = 20;
+            this.ImageAdd_Button.Text = "Thêm Ảnh";
+            this.ImageAdd_Button.UseVisualStyleBackColor = true;
+            this.ImageAdd_Button.Click += new System.EventHandler(this.ImageAdd_Button_Click);
+            // 
+            // PictureBox_Message
+            // 
+            this.PictureBox_Message.Location = new System.Drawing.Point(22, 434);
+            this.PictureBox_Message.Name = "PictureBox_Message";
+            this.PictureBox_Message.Size = new System.Drawing.Size(502, 96);
+            this.PictureBox_Message.TabIndex = 21;
+            this.PictureBox_Message.TabStop = false;
+            this.PictureBox_Message.Click += new System.EventHandler(this.PictureBox_Message_Click);
+            // 
             // Cilent
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 542);
+            this.Controls.Add(this.PictureBox_Message);
+            this.Controls.Add(this.ImageAdd_Button);
             this.Controls.Add(this.UserName_Input);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.Send_Msg_Cilent);
@@ -171,6 +195,7 @@
             this.Controls.Add(this.IP_TextBox_Cilent);
             this.Name = "Cilent";
             this.Text = "Cilent";
+            ((System.ComponentModel.ISupportInitialize)(this.PictureBox_Message)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -190,5 +215,7 @@
         private System.Windows.Forms.Button Send_Msg_Cilent;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox UserName_Input;
+        private System.Windows.Forms.Button ImageAdd_Button;
+        private System.Windows.Forms.PictureBox PictureBox_Message;
     }
 }

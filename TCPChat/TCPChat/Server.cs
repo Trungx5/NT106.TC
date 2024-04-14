@@ -16,6 +16,16 @@ namespace SLLChat
 {
     public partial class Server : Form
     {
+        public Image Base64ToImage(string base64String)
+        {
+
+            byte[] imageBytes = Convert.FromBase64String(base64String);
+            using (var ms = new MemoryStream(imageBytes, 0, imageBytes.Length))
+            {
+                Image image = Image.FromStream(ms, true);
+                return image;
+            }
+        }
         TcpListener listener;
         List<TcpClient> clients = new List<TcpClient>();
         private void ServerConnect_Button_Click(object sender, EventArgs e)
@@ -47,10 +57,23 @@ namespace SLLChat
             while (true)
             {
                 string data = reader.ReadLine();
-                Invoke((MethodInvoker)delegate
+                if (data.StartsWith("img:"))
                 {
-                    MessageContent_RTextBox.Text += "Client: " + data + "\n";
-                });
+                    string base64Image = data.Substring(4); 
+                    Image image = Base64ToImage(base64Image);
+                    Invoke((MethodInvoker)delegate
+                    {
+                        PictureBox_Message.Image = image;
+                    });
+                }
+                else
+                {
+                    // This is a regular message
+                    Invoke((MethodInvoker)delegate
+                    {
+                        MessageContent_RTextBox.Text += "Client: " + data + "\n";
+                    });
+                }
 
                 foreach (TcpClient otherClient in clients)
                 {

@@ -36,6 +36,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.ServerConnect_Button = new System.Windows.Forms.Button();
             this.Server_Disconnect_Button = new System.Windows.Forms.Button();
+            this.PictureBox_Message = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.PictureBox_Message)).BeginInit();
             this.SuspendLayout();
             // 
             // IP_TextBox
@@ -111,11 +113,20 @@
             this.Server_Disconnect_Button.Text = "Dừng";
             this.Server_Disconnect_Button.UseVisualStyleBackColor = true;
             // 
+            // PictureBox_Message
+            // 
+            this.PictureBox_Message.Location = new System.Drawing.Point(32, 396);
+            this.PictureBox_Message.Name = "PictureBox_Message";
+            this.PictureBox_Message.Size = new System.Drawing.Size(695, 96);
+            this.PictureBox_Message.TabIndex = 22;
+            this.PictureBox_Message.TabStop = false;
+            // 
             // Server
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 527);
+            this.Controls.Add(this.PictureBox_Message);
             this.Controls.Add(this.Server_Disconnect_Button);
             this.Controls.Add(this.ServerConnect_Button);
             this.Controls.Add(this.label2);
@@ -126,6 +137,7 @@
             this.Controls.Add(this.IP_TextBox);
             this.Name = "Server";
             this.Text = "Server";
+            ((System.ComponentModel.ISupportInitialize)(this.PictureBox_Message)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -141,5 +153,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button ServerConnect_Button;
         private System.Windows.Forms.Button Server_Disconnect_Button;
+        private System.Windows.Forms.PictureBox PictureBox_Message;
     }
 }
