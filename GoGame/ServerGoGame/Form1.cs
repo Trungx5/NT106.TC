@@ -25,7 +25,7 @@ namespace ServerGoGame
         private void FormServer_Load(object sender, EventArgs e)
         {
             listBox1.HorizontalScrollbar = true;
-            localAddress = IPAddress.Parse("127.0.0.1");
+            localAddress = IPAddress.Parse("192.168.43.20");
             buttonStop.Enabled = false;
         }
 
@@ -255,6 +255,31 @@ namespace ServerGoGame
                         User anotherUser = gameTables[tableIndex].gamePlayer[anotherSide].user;
                          service.SendToOne(anotherUser,sendString);
                         
+                        break;
+
+                    case "skip":
+                        tableIndex = int.Parse(splitString[1]);
+                        side= int.Parse(splitString[2]);
+                        anotherSide = (side + 1) % 2;
+                        User anotherUserr = gameTables[tableIndex].gamePlayer[anotherSide].user;
+                        sendString = string.Format("Skip,{0}",anotherSide);
+                        service.SendToOne(anotherUserr, sendString);
+
+                        break;
+
+                    case "endgame":
+                        tableIndex = int.Parse(splitString[1]);
+                        sendString = string.Format("EndGame");
+                        service.SentToBoth(gameTables[tableIndex], sendString);
+                        break;
+
+                    case "infoendgame":
+                        tableIndex= int.Parse(splitString[1]);
+                        side = int.Parse(splitString[2]);
+                        double final= double.Parse(splitString[3]);
+                        anotherSide= (side + 1) % 2;
+                        sendString=string.Format("infoendgame,{0}",final);
+                        service.SendToOne(gameTables[tableIndex].gamePlayer[anotherSide].user, sendString);
                         break;
                 }
             }    
