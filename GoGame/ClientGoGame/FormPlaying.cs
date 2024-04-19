@@ -11,6 +11,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Forms.Timers;
 
 namespace ClientGoGame
 {
@@ -63,8 +64,58 @@ namespace ClientGoGame
             //
             panel1.Visible = false;
             buttonSkip.Enabled = false;
-
+            timerPlayer1 = new Timer();
+            timerPlayer2 = new Timer();
+            timerPlayer1.Interval = 30000;
+            timerPlayer2.Interval = 30000;
+            timerPlayer1.Tick += TimerPlayer1_Tick;
+            timerPlayer2.Tick += TimerPlayer2_Tick;
+            timerPlayer1.Start();   
         }
+        private void TimerPlayer1_Tick(object sender, EventArgs e)
+        {
+           // When timer is over, the player 1 will be lost
+            if (side == 1)
+            {
+                MessageBox.Show("You are lost because of time out!");
+                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
+            }
+            else
+            {
+                MessageBox.Show("You are win because of time out!");
+                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
+            }
+        }
+        private void TimerPlayer2_Tick(object sender, EventArgs e)
+        {
+            // When timer is over, the player 2 will be lost
+            if (side == 2)
+            {
+                MessageBox.Show("You are lost because of time out!");
+                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
+            }
+            else
+            {
+                MessageBox.Show("You are win because of time out!");
+                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
+            }
+        }
+        private void EndTurnPlayer1()
+        {
+            // Reset timer for player 1 , continue to player 2
+            timerPlayer1.Stop();
+            timerPlayer2.Start();
+            TimerPlayer1.Interval = 30000;
+        }
+        private void EndTurnPlayer2()
+        {
+            // Reset timer for player 2 , continue to player 1
+            timerPlayer2.Stop();
+            timerPlayer1.Start();
+            TimerPlayer2.Interval = 30000;
+        }
+
+        
         private void InitializeGoBoard()
         {
             panel1.Width = panel1.Height = SquareSize * BoardSize;
