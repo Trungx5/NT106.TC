@@ -11,7 +11,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Windows.Forms.Timers;
+using System.Windows.Forms;
 
 namespace ClientGoGame
 {
@@ -47,7 +47,7 @@ namespace ClientGoGame
             if (Side == 1)
             {
                 labelSide.Text = "White";
-               //labelName1.Text = name;
+                //labelName1.Text = name;
                 pictureBox1.Image = Properties.Resources.quantrangnew;
                 isBlack = false;
             }
@@ -64,58 +64,11 @@ namespace ClientGoGame
             //
             panel1.Visible = false;
             buttonSkip.Enabled = false;
-            timerPlayer1 = new Timer();
-            timerPlayer2 = new Timer();
-            timerPlayer1.Interval = 30000;
-            timerPlayer2.Interval = 30000;
-            timerPlayer1.Tick += TimerPlayer1_Tick;
-            timerPlayer2.Tick += TimerPlayer2_Tick;
-            timerPlayer1.Start();   
-        }
-        private void TimerPlayer1_Tick(object sender, EventArgs e)
-        {
-           // When timer is over, the player 1 will be lost
-            if (side == 1)
-            {
-                MessageBox.Show("You are lost because of time out!");
-                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
-            }
-            else
-            {
-                MessageBox.Show("You are win because of time out!");
-                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
-            }
-        }
-        private void TimerPlayer2_Tick(object sender, EventArgs e)
-        {
-            // When timer is over, the player 2 will be lost
-            if (side == 2)
-            {
-                MessageBox.Show("You are lost because of time out!");
-                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
-            }
-            else
-            {
-                MessageBox.Show("You are win because of time out!");
-                service.SendToServer(string.Format("TimeOut,{0},{1}", tableIndex, side));
-            }
-        }
-        private void EndTurnPlayer1()
-        {
-            // Reset timer for player 1 , continue to player 2
-            timerPlayer1.Stop();
-            timerPlayer2.Start();
-            TimerPlayer1.Interval = 30000;
-        }
-        private void EndTurnPlayer2()
-        {
-            // Reset timer for player 2 , continue to player 1
-            timerPlayer2.Stop();
-            timerPlayer1.Start();
-            TimerPlayer2.Interval = 30000;
+
         }
 
-        
+
+
         private void InitializeGoBoard()
         {
             panel1.Width = panel1.Height = SquareSize * BoardSize;
@@ -296,9 +249,9 @@ namespace ClientGoGame
             {
 
                 //CO SK XOA
-               
+
                 eventDelete = true;
-                string str = "";                
+                string str = "";
                 for (int i = 0; i < listCapture.Count; i++)
                 {
                     if (i != listCapture.Count - 1)
@@ -314,7 +267,7 @@ namespace ClientGoGame
 
 
                 //MessageBox.Show(str);
-                service.SendToServer("PieceCapture" + "," + tableIndex + ","+ str);
+                service.SendToServer("PieceCapture" + "," + tableIndex + "," + str);
 
 
                 // MessageBox.Show("PieceCapture" + "," + tableIndex +","+ str);
@@ -362,11 +315,11 @@ namespace ClientGoGame
             {
                 //Display();
 
-                if(this.side==1)
+                if (this.side == 1)
                 {
-                    score = CalculateWhiteTerritory()+6.5;
+                    score = CalculateWhiteTerritory() + 6.5;
                     //MessageBox.Show("WHITE: " + score);
-                    service.SendToServer(string.Format("Score,{0},{1},{2}",tableIndex,this.side,score));
+                    service.SendToServer(string.Format("Score,{0},{1},{2}", tableIndex, this.side, score));
                     if (labelScore1.InvokeRequired)
                     {
                         labelScore1.Invoke(new MethodInvoker(() =>
@@ -389,39 +342,39 @@ namespace ClientGoGame
                     }
                 }
 
-               /* if (this.side == 1)
-                {
-                    //white
-                    this.score = CalculateWhiteTerritory();
-                    //format Score,table index,otherside,score
-                    int anothersidee = (side + 1) % 2;
-                    service.SendToServer(string.Format("Score,{0},{1},{2}", tableIndex, anothersidee, score));
-                    if (labelScore1.InvokeRequired)
-                    {
-                        labelScore1.Invoke(new MethodInvoker(() =>
-                        {
-                            labelScore1.Text = "Score: "+this.score.ToString();
-                        }));
-                    }
+                /* if (this.side == 1)
+                 {
+                     //white
+                     this.score = CalculateWhiteTerritory();
+                     //format Score,table index,otherside,score
+                     int anothersidee = (side + 1) % 2;
+                     service.SendToServer(string.Format("Score,{0},{1},{2}", tableIndex, anothersidee, score));
+                     if (labelScore1.InvokeRequired)
+                     {
+                         labelScore1.Invoke(new MethodInvoker(() =>
+                         {
+                             labelScore1.Text = "Score: "+this.score.ToString();
+                         }));
+                     }
 
-                }
-                else
-                {
-                    //black
-                    this.score = CalculateBlackTerritory();
-                    int anothersidee = (side + 1) % 2;
-                    service.SendToServer(string.Format("Score,{0},{1},{2}", tableIndex, anothersidee, score));
-                    if (labelScore1.InvokeRequired)
-                    {
-                        labelScore1.Invoke(new MethodInvoker(() =>
-                        {
-                            labelScore1.Text = "Score: " + this.score.ToString();
-                        }));
-                    }
-                }*/
+                 }
+                 else
+                 {
+                     //black
+                     this.score = CalculateBlackTerritory();
+                     int anothersidee = (side + 1) % 2;
+                     service.SendToServer(string.Format("Score,{0},{1},{2}", tableIndex, anothersidee, score));
+                     if (labelScore1.InvokeRequired)
+                     {
+                         labelScore1.Invoke(new MethodInvoker(() =>
+                         {
+                             labelScore1.Text = "Score: " + this.score.ToString();
+                         }));
+                     }
+                 }*/
                 eventDelete = false;
-            }    
-            
+            }
+
 
             /* List<(int, int)> listCapture = new List<(int, int)>(); 
              if (CheckThePieceIsCaptured(out listCapture)&&isTurn==false)
@@ -517,7 +470,7 @@ namespace ClientGoGame
             panel1.Invoke(new MethodInvoker(() =>
             {
                 this.panel1.Visible = true;
-                
+
             }));
 
 
@@ -601,7 +554,7 @@ namespace ClientGoGame
 
         public void DrawAgainBroadAfterGo(List<(int, int)> listStone)
         {
-            
+
             //var listStone = chessBroad.GetCapturedStones();
             int x = listStone[0].Item1;
             int y = listStone[0].Item2;
@@ -618,17 +571,17 @@ namespace ClientGoGame
 
 
             int newnumber = listStone.Count;
-            if(newnumber > 0)
+            if (newnumber > 0)
             {
-                if(side!=sideinfoo)
+                if (side != sideinfoo)
                 {
                     service.SendToServer(string.Format("NumberPrison,{0},{1},{2}", tableIndex, sideinfoo, newnumber));
                 }
                 //service.SendToServer(string.Format("NumberPrison,{0},{1},{2}",tableIndex,sideinfoo, newnumber));
                 //MessageBox.Show(newnumber + "");
-            }  
-             
-            
+            }
+
+
             foreach (var item in listStone)
             {
 
@@ -644,14 +597,14 @@ namespace ClientGoGame
 
             if (this.side == 1)
             {
-                score = CalculateWhiteTerritory()+6.5;
+                score = CalculateWhiteTerritory() + 6.5;
                 //MessageBox.Show("WHITE: " + score);
                 service.SendToServer(string.Format("Score,{0},{1},{2}", tableIndex, this.side, score));
                 if (labelScore1.InvokeRequired)
                 {
                     labelScore1.Invoke(new MethodInvoker(() =>
                     {
-                        labelScore1.Text="Score: "+score.ToString();
+                        labelScore1.Text = "Score: " + score.ToString();
                     }));
                 }
             }
@@ -678,23 +631,23 @@ namespace ClientGoGame
 
         }
 
-        public void SetInfo(int sidee,string namee)
+        public void SetInfo(int sidee, string namee)
         {
-            if(side==sidee)
+            if (side == sidee)
             {
-                if(labelName1.InvokeRequired)
+                if (labelName1.InvokeRequired)
                 {
                     labelName1.Invoke(new MethodInvoker(() =>
                     {
                         labelName1.Text = namee;
                     }));
-                }    
-                
-               
+                }
+
+
             }
             else
             {
-                
+
                 if (labelName2.InvokeRequired)
                 {
                     labelName2.Invoke(new MethodInvoker(() =>
@@ -727,10 +680,10 @@ namespace ClientGoGame
                 }
             }
         }
-        public void SetNumberPrison(int side,int number)
+        public void SetNumberPrison(int side, int number)
         {
             //MessageBox.Show(number + "");
-            if(this.side!=side)
+            if (this.side != side)
             {
                 numberOfPrisoner += number;
                 if (labelPrisonser1.InvokeRequired)
@@ -740,7 +693,7 @@ namespace ClientGoGame
                         this.labelPrisonser1.Text = numberOfPrisoner.ToString();
                     }));
                 }
-                
+
             }
             else
             {
@@ -879,22 +832,41 @@ namespace ClientGoGame
         }
 
 
-        public void SetScore( double score)
+        public void SetScore(double score)
         {
             if (labelScore2.InvokeRequired)
             {
                 labelScore2.Invoke(new MethodInvoker(() =>
                 {
-                    this.labelScore2.Text = "Score: "+score.ToString();
+                    this.labelScore2.Text = "Score: " + score.ToString();
                 }));
             }
-            
+
         }
 
+        private void FormPlaying_Load(object sender, EventArgs e)
+        {
 
+        }
 
+        private void TimerPlayer1_Tick_1(object sender, EventArgs e)
+        {
 
+        }
 
+        private void TimerPlayer2_Tick(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EndTurn1()
+        {
+
+        }
+        private void EndTurn2() 
+        {
+
+        }
 
     }
 }

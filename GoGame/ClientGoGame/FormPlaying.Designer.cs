@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             panel1 = new Panel();
             buttonReady = new Button();
             labelSide = new Label();
@@ -43,6 +44,10 @@
             labelPrisonser1 = new Label();
             labelScore1 = new Label();
             labelName1 = new Label();
+            TimerPlayer1 = new System.Windows.Forms.Timer(components);
+            TimerPlayer2 = new System.Windows.Forms.Timer(components);
+            TimerP2_Label = new Label();
+            TimerPlayer1_Label = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -201,11 +206,43 @@
             labelName1.TabIndex = 5;
             labelName1.Text = "You";
             // 
+            // TimerPlayer1
+            // 
+            TimerPlayer1.Enabled = true;
+            TimerPlayer1.Interval = 30000;
+            TimerPlayer1.Tick += TimerPlayer1_Tick_1;
+            // 
+            // TimerPlayer2
+            // 
+            TimerPlayer2.Enabled = true;
+            TimerPlayer2.Interval = 30000;
+            TimerPlayer2.Tick += TimerPlayer2_Tick;
+            // 
+            // TimerP2_Label
+            // 
+            TimerP2_Label.AutoSize = true;
+            TimerP2_Label.Location = new Point(777, 123);
+            TimerP2_Label.Name = "TimerP2_Label";
+            TimerP2_Label.Size = new Size(59, 25);
+            TimerP2_Label.TabIndex = 7;
+            TimerP2_Label.Text = "label1";
+            // 
+            // TimerPlayer1_Label
+            // 
+            TimerPlayer1_Label.AutoSize = true;
+            TimerPlayer1_Label.Location = new Point(769, 576);
+            TimerPlayer1_Label.Name = "TimerPlayer1_Label";
+            TimerPlayer1_Label.Size = new Size(59, 25);
+            TimerPlayer1_Label.TabIndex = 8;
+            TimerPlayer1_Label.Text = "label1";
+            // 
             // FormPlaying
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1240, 726);
+            Controls.Add(TimerPlayer1_Label);
+            Controls.Add(TimerP2_Label);
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(labelSide);
@@ -214,6 +251,7 @@
             Name = "FormPlaying";
             Padding = new Padding(10);
             Text = "FormPlaying";
+            Load += FormPlaying_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
@@ -241,5 +279,9 @@
         private Label labelScore1;
         private Label labelPrisonser2;
         private Label labelPrisonser1;
+        private System.Windows.Forms.Timer TimerPlayer1;
+        private System.Windows.Forms.Timer TimerPlayer2;
+        private Label TimerP2_Label;
+        private Label TimerPlayer1_Label;
     }
 }
