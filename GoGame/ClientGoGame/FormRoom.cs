@@ -186,7 +186,7 @@ namespace ClientGoGame
 
                     case "allready":
                         formPlaying.BeginGame();
-                        
+                        formPlaying.StartTimer();
 
                         break;
 

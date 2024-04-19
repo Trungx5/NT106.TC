@@ -848,24 +848,41 @@ namespace ClientGoGame
         {
 
         }
+        public void StartTimer()
+        {
+            TimerPlayer1.Start();
+            TimerPlayer1_Label.Text = "30";
+            TimeP2_Label.Text = "30";
+        }
 
         private void TimerPlayer1_Tick_1(object sender, EventArgs e)
         {
+            // Update player 1 timer label
+            // If timer reaches 0 , player 1 loses
 
+            TimerPlayer1_Label.Text = (int.Parse(TimerPlayer1_Label.Text) - 1).ToString();
         }
 
         private void TimerPlayer2_Tick(object sender, EventArgs e)
         {
-
+            TimerP2_Label.Text = (int.Parse(TimerP2_Label.Text) - 1).ToString();
         }
 
         private void EndTurn1()
         {
-
+                // Reset player 1 timer back to 30 seconds , stop timer and start player 2 timer , update label
+                TimerPlayer1.Stop();
+                TimerPlayer2.Start();
+                TimerPlayer2.Enabled = true;
+                TimerPlayer1.Enabled = false;
         }
         private void EndTurn2() 
         {
-
+                // Reset player 2 timer back to 30 seconds , stop timer and start player 1 timer , update label
+                TimerPlayer2.Stop();
+                TimerPlayer1.Start();
+                TimerPlayer1.Enabled = true;
+                TimerPlayer2.Enabled = false;
         }
 
     }
