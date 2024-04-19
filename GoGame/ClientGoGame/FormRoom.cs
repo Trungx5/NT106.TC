@@ -175,15 +175,55 @@ namespace ClientGoGame
                         break;
 
                     case "sitdown":
+                       int sidee = int.Parse(splitString[1]);
+                       string namee = splitString[2];
+                       formPlaying.SetInfo(sidee,namee);
                         
+                      
+
+
                         break;
 
                     case "allready":
                         formPlaying.BeginGame();
-
-                        break;
                         
 
+                        break;
+
+                    case "piececapture":
+
+                        List<(int, int)> listpiececapture = new List<(int, int)>();
+                        for(int i=1;i<=splitString.Length-1;)
+                        {                               
+                            (int, int) tmp = (int.Parse(splitString[i]), int.Parse(splitString[i + 1]));
+                            listpiececapture.Add(tmp);
+                            i=i+2;
+                        }
+                        string str = "";
+                        foreach(var item in listpiececapture)
+                        {
+                             str+= item.Item1.ToString() + item.Item2.ToString()+" ";
+                        }
+                        //MessageBox.Show(str);
+
+                       
+                        formPlaying.DrawAgainBroadAfterGo(listpiececapture);
+                        break;
+
+                    case "numberprison":
+                        int sideinfo = int.Parse(splitString[1]);
+                        int numberPrison = int.Parse(splitString[2]);
+                        formPlaying.SetNumberPrison(sideinfo, numberPrison);
+                        break;
+
+
+                    case "score":
+                        
+                       
+                        double score = double.Parse(splitString[1]);
+                        formPlaying.SetScore(score);
+
+                        break;
 
                 }
 
@@ -238,6 +278,8 @@ namespace ClientGoGame
             {
                 int i = int.Parse(checkbox.Name.Substring(5, 4));
                 int j = int.Parse(checkbox.Name.Substring(9, 4));
+                string name=textBoxName.Text;
+                
                 side = j;
                 //Format: SitDown, Nickname, Table Number, Seat Number
                 service.SendToServer(string.Format("SitDown,{0},{1}", i, j));
@@ -294,7 +336,7 @@ namespace ClientGoGame
                 Label label = new Label();
                 label.Location = new Point(10, 15 + i * 30);
                 label.Text = string.Format("Table {0}: ", i + 1);
-                label.Width = 70;
+                label.Width = 90;
                 this.panel1.Controls.Add(label);
                 CreateCheckBox(i, 1, s, "White");
                 CreateCheckBox(i, 0, s, "Black");

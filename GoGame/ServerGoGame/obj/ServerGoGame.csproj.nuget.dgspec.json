@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hai Nam\\Desktop\\fixx\\GoGame\\ServerGoGame\\ServerGoGame.csproj": {}
+    "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\ServerGoGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hai Nam\\Desktop\\fixx\\GoGame\\ServerGoGame\\ServerGoGame.csproj": {
+    "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\ServerGoGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hai Nam\\Desktop\\fixx\\GoGame\\ServerGoGame\\ServerGoGame.csproj",
+        "projectUniqueName": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\ServerGoGame.csproj",
         "projectName": "ServerGoGame",
-        "projectPath": "C:\\Users\\Hai Nam\\Desktop\\fixx\\GoGame\\ServerGoGame\\ServerGoGame.csproj",
+        "projectPath": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\ServerGoGame.csproj",
         "packagesPath": "C:\\Users\\Hai Nam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hai Nam\\Desktop\\fixx\\GoGame\\ServerGoGame\\obj\\",
+        "outputPath": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hai Nam\\AppData\\Roaming\\NuGet\\NuGet.Config",

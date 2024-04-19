@@ -23,6 +23,7 @@ namespace ClientGoGame
 
 
 
+
         public void SetPosition(int x, int y, int z)
         {
             if (x >= 1 && y >= 1 && x <= 9 && y <= 9)
@@ -30,8 +31,9 @@ namespace ClientGoGame
                 board[y - 1, x - 1] = z;
 
             }
-           /* string str = "";
-            for (int i = 0; i < 9; i++)
+            
+            string str = "";
+           /* for (int i = 0; i < 9; i++)
             {
                 for (int j = 0; j < 9; j++)
                 {
@@ -45,6 +47,25 @@ namespace ClientGoGame
 
             MessageBox.Show(str);*/
 
+        }
+
+
+        public void Display()
+        {
+            string str = "";
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = 0; j < 9; j++)
+                {
+                    //Console.Write(board[i, j] + " ");
+                    str += board[i, j] + " ";
+                }
+                //Console.WriteLine();
+                str += "\n";
+            }
+            //Console.WriteLine("----------------------");
+
+            MessageBox.Show(str);
         }
 
         public bool IsStoneCaptured(int row, int col)
@@ -114,10 +135,8 @@ namespace ClientGoGame
             return true; // All connected stones have no liberty, they are captured
         }
 
-        public List<(int, int)> GetCapturedStones(out bool checkblack)
+        public List<(int, int)> GetCapturedStones()
         {
-
-            bool checkBlack = false;
             List<(int, int)> capturedStones = new List<(int, int)>();
             int size = board.GetLength(0);
 
@@ -128,21 +147,71 @@ namespace ClientGoGame
 
                     if (board[i, j] != 0 && IsStoneCaptured(i, j))
                     {
-                        if (board[i, j] == 1)
-                        {
-                            checkBlack = true;
-                        }
-                        else
-                        {
-                            checkBlack = false;
-                        }
+                        
                         capturedStones.Add((i, j));
                     }
                 }
             }
-            checkblack = checkBlack;
+            
+            return capturedStones;
+        }
+        public List<(int, int)> GetCapturedStones2(int side)
+        {
+            int Piece = 0;
+            if(side==0)
+            {
+                Piece = 1;
+            }
+            else
+            {
+                Piece = 2;
+            }
+            List<(int, int)> capturedStones = new List<(int, int)>();
+            int size = board.GetLength(0);
 
+            for (int i = 0; i < size; i++)
+            {
+                for (int j = 0; j < size; j++)
+                {
 
+                    if (board[i, j] != 0 && IsStoneCaptured(i, j) && board[i,j]!=Piece)
+                    {
+
+                        capturedStones.Add((i, j));
+                    }
+                }
+            }
+
+            return capturedStones;
+        }
+
+        //
+        public List<(int, int)> GetCapturedStones3(int side)
+        {
+            int Piece = 0;
+            if (side == 0)
+            {
+                Piece = 1;
+            }
+            else
+            {
+                Piece = 2;
+            }
+            List<(int, int)> capturedStones = new List<(int, int)>();
+            int size = board.GetLength(0);
+
+            for (int i = 0; i < size; i++)
+            {
+                for (int j = 0; j < size; j++)
+                {
+
+                    if (board[i, j] != 0 && IsStoneCaptured(i, j) && board[i, j] == Piece)
+                    {
+
+                        capturedStones.Add((i, j));
+                    }
+                }
+            }
 
             return capturedStones;
         }

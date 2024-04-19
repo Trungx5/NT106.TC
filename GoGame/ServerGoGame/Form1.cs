@@ -164,6 +164,7 @@ namespace ServerGoGame
                         }
                         //Tell both users that the user is seated
                         //Format: SitDown, seat number, username
+
                         sendString = string.Format("SitDown,{0},{1}", side, user.userName);
                         service.SentToBoth(gameTables[tableIndex], sendString);
 
@@ -208,6 +209,52 @@ namespace ServerGoGame
                             sendString = "AllReady";
                             service.SentToBoth(gameTables[tableIndex], sendString);
                         }
+                        break;
+
+                    case "piececapture":
+                        tableIndex = int.Parse(splitString[1]);
+
+                        int indexfinal = splitString.Length-1;
+                        sendString += "piececapture,";
+                        for (int i=2;i<splitString.Length;i++)
+                        {
+                            if(i!=splitString.Length-1)
+                            {
+                                sendString += splitString[i] + ",";
+                            }
+                            else
+                            {
+                                sendString += splitString[i];
+                            }
+                            
+                        }
+                        //MessageBox.Show(sendString);
+                        service.SentToBoth(gameTables[tableIndex], sendString);
+
+                        break;
+
+                    case "numberprison":
+
+                        tableIndex = int.Parse(splitString[1]);
+                        side = int.Parse(splitString[2]);
+                        anotherSide = (side + 1) % 2;
+                        int numberPrison = int.Parse(splitString[3]);
+                        sendString=string.Format("NumberPrison,{0},{1}",side,numberPrison);
+                        //MessageBox.Show("Server: "+numberPrison+" "+side);
+                        service.SentToBoth(gameTables[tableIndex], sendString);
+                        //service.SendToOne(user, sendString);
+                        break;
+
+                    case "score":
+                        tableIndex = int.Parse(splitString[1]);
+                        side = int.Parse(splitString[2]);
+                        anotherSide= (side + 1) % 2;
+                        double score = double.Parse(splitString[3]);
+                        sendString = string.Format("Score,{0}", score);
+                        //service.SentToBoth(gameTables[tableIndex], sendString);
+                        User anotherUser = gameTables[tableIndex].gamePlayer[anotherSide].user;
+                         service.SendToOne(anotherUser,sendString);
+                        
                         break;
                 }
             }    
