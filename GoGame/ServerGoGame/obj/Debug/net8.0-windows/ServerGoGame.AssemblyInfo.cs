@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServerGoGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+916845b5fbc902fcb444cec1804b2250d38d08e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServerGoGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServerGoGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

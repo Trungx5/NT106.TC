@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\",
+  "WorkspaceRootPath": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|c:\\users\\hai nam\\desktop\\trung\\nt106.tc\\gogame\\clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\servergogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|solutionrelative:servergogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|c:\\users\\hai nam\\desktop\\trung\\nt106.tc\\gogame\\clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\servergogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\servergogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|solutionrelative:servergogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\servergogame\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|solutionrelative:servergogame\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|c:\\users\\hai nam\\desktop\\themtinhnangpart2\\gogame\\clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\servergogame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formplaying.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\servergogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|solutionrelative:servergogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\clientgogame\\chessbroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\chessbroad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\servergogame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|solutionrelative:servergogame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\servergogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\servergogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|solutionrelative:servergogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\servergogame\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\servergogame\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF09F1D-7CED-4FA1-B063-F9F625CBDAE7}|ServerGoGame\\ServerGoGame.csproj|solutionrelative:servergogame\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\clientgogame\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\clientgogame\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\clientgogame\\formplaying.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\clientgogame\\formplaying.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\formplaying.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\clientgogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\clientgogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22E4230B-2CBB-49EA-B388-F9DEC8D5F1C0}|ClientGoGame\\ClientGoGame.csproj|solutionrelative:clientgogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Form1.cs",
               "RelativeDocumentMoniker": "ServerGoGame\\Form1.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Form1.cs",
               "RelativeToolTip": "ServerGoGame\\Form1.cs",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAowAABAAAYAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswHoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T02:19:50.739Z",
               "IsPinned": true,
@@ -82,11 +82,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormPlaying.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormPlaying.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormPlaying.cs",
               "RelativeDocumentMoniker": "ClientGoGame\\FormPlaying.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormPlaying.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormPlaying.cs",
               "RelativeToolTip": "ClientGoGame\\FormPlaying.cs",
-              "ViewState": "AQIAAOoAAAAAAAAAAAAMwGUDAAAAAAAA",
+              "ViewState": "AQIAAIQCAAAAAAAAAAAmwJsCAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T02:22:50.139Z",
               "IsPinned": true,
@@ -94,48 +94,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormPlaying.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormPlaying.cs",
-              "RelativeDocumentMoniker": "ClientGoGame\\FormPlaying.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormPlaying.cs [Design]",
-              "RelativeToolTip": "ClientGoGame\\FormPlaying.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T09:34:30.035Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormRoom.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormRoom.cs",
+              "Title": "FormRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormRoom.cs",
               "RelativeDocumentMoniker": "ClientGoGame\\FormRoom.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormRoom.cs",
-              "RelativeToolTip": "ClientGoGame\\FormRoom.cs",
-              "ViewState": "AQIAAEMBAAAAAAAAAAAuwFIBAAAfAAAA",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormRoom.cs [Design]",
+              "RelativeToolTip": "ClientGoGame\\FormRoom.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T02:18:56.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T02:18:53.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormRoom.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormRoom.cs",
+              "Title": "FormRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormRoom.cs",
               "RelativeDocumentMoniker": "ClientGoGame\\FormRoom.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormRoom.cs [Design]",
-              "RelativeToolTip": "ClientGoGame\\FormRoom.cs [Design]",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormRoom.cs",
+              "RelativeToolTip": "ClientGoGame\\FormRoom.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T02:18:53.601Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-16T02:18:56.568Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FormPlaying.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormPlaying.cs",
+              "RelativeDocumentMoniker": "ClientGoGame\\FormPlaying.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormPlaying.cs [Design]",
+              "RelativeToolTip": "ClientGoGame\\FormPlaying.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:45:04.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Form1.cs",
               "RelativeDocumentMoniker": "ServerGoGame\\Form1.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Form1.cs [Design]",
               "RelativeToolTip": "ServerGoGame\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T02:19:28.894Z",
@@ -144,22 +141,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GameTable.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\GameTable.cs",
-              "RelativeDocumentMoniker": "ServerGoGame\\GameTable.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\GameTable.cs",
-              "RelativeToolTip": "ServerGoGame\\GameTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Title": "ChessBroad.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\ChessBroad.cs",
+              "RelativeDocumentMoniker": "ClientGoGame\\ChessBroad.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\ChessBroad.cs",
+              "RelativeToolTip": "ClientGoGame\\ChessBroad.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAowKEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T08:49:06.953Z"
+              "WhenOpened": "2024-04-19T10:35:13.055Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Player.cs",
               "RelativeDocumentMoniker": "ServerGoGame\\Player.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Player.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Player.cs",
               "RelativeToolTip": "ServerGoGame\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Program.cs",
               "RelativeDocumentMoniker": "ServerGoGame\\Program.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\Program.cs",
               "RelativeToolTip": "ServerGoGame\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +178,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\User.cs",
               "RelativeDocumentMoniker": "ServerGoGame\\User.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ServerGoGame\\User.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ServerGoGame\\User.cs",
               "RelativeToolTip": "ServerGoGame\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\Service.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\Service.cs",
               "RelativeDocumentMoniker": "ClientGoGame\\Service.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\Service.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\Service.cs",
               "RelativeToolTip": "ClientGoGame\\Service.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,22 +202,21 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "FormPlaying.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormPlaying.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormPlaying.Designer.cs",
               "RelativeDocumentMoniker": "ClientGoGame\\FormPlaying.Designer.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\FormPlaying.Designer.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\FormPlaying.Designer.cs",
               "RelativeToolTip": "ClientGoGame\\FormPlaying.Designer.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAawGUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T01:25:24.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T01:25:24.561Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\Program.cs",
               "RelativeDocumentMoniker": "ClientGoGame\\Program.cs",
-              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\trung\\NT106.TC\\GoGame\\ClientGoGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\themtinhnangpart2\\GoGame\\ClientGoGame\\Program.cs",
               "RelativeToolTip": "ClientGoGame\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

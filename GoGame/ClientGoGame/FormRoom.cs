@@ -36,7 +36,7 @@ namespace ClientGoGame
         {
             try
             {
-                client = new TcpClient("127.0.0.1", 51888);
+                client = new TcpClient("192.168.43.20", 51888);
             }
             catch
             {
@@ -186,7 +186,7 @@ namespace ClientGoGame
 
                     case "allready":
                         formPlaying.BeginGame();
-                        formPlaying.StartTimer();
+                        
 
                         break;
 
@@ -223,6 +223,24 @@ namespace ClientGoGame
                         double score = double.Parse(splitString[1]);
                         formPlaying.SetScore(score);
 
+                        break;
+
+                    case "skip":
+
+                        int anotherrside = int.Parse(splitString[1]);
+                        formPlaying.SkipEvent(anotherrside);
+                        break;
+
+                    case "endgame":
+                        formPlaying.InfoEndGame();
+
+
+                        break;
+
+                    case "infoendgame":
+
+                        double scoreYourFriend = double.Parse(splitString[1]);
+                        formPlaying.Final(scoreYourFriend);
                         break;
 
                 }
