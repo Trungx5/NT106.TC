@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trung\\source\\repos\\NT106.TC\\Lab03\\Lab03_GiaoDien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20C815E-1E29-49B1-92EB-008A344A27F4}|Lab03_GiaoDien.csproj|C:\\Users\\Trung\\source\\repos\\NT106.TC\\Lab03\\Lab03_GiaoDien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20C815E-1E29-49B1-92EB-008A344A27F4}|Lab03_GiaoDien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20C815E-1E29-49B1-92EB-008A344A27F4}|Lab03_GiaoDien.csproj|C:\\Users\\Trung\\source\\repos\\NT106.TC\\Lab03\\Lab03_GiaoDien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B20C815E-1E29-49B1-92EB-008A344A27F4}|Lab03_GiaoDien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\lab03_bai03\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\lab03_bai03\\bai03_tcpcilent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\lab03_bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\bai01\\udp server.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\lab03_bai02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\bai01\\udp cilent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\bai01\\udp server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\trung\\source\\repos\\22521554-hoangdinhtrung\\lab03\\bai01\\lab03_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:19:54.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai03_TCPCilent.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADgvyoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:29:30.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAASwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:37:39.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UDP Server.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:13:28.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAD4v1IAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:54:51.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UDP Cilent.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAWwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:05:24.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UDP Server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.Designer.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.Designer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAWwD8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T05:18:43.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Lab03_Bai01.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAD4vxYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:15:48.286Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TCPServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\TCPServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:55:47.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai03_TCPCilent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Bai03_TCPCilent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:56:01.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:46:53.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UDP Server.resx",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.resx",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.resx",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-11T07:11:21.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_Bai02\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:46:57.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UDP Cilent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Cilent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:59:50.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UDP Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\UDP Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:00:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lab03_Bai01.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Bai01\\Lab03_Bai01.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:23:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\NT106.TC\\Lab03\\Lab03_GiaoDien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\NT106.TC\\Lab03\\Lab03_GiaoDien\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:17:18.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trung\\source\\repos\\NT106.TC\\Lab03\\Lab03_GiaoDien\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Trung\\source\\repos\\22521554-HoangDinhTrung\\Lab03\\Lab03_GiaoDien\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\22521554-HoangDinhTrung\\Lab03\\Lab03_GiaoDien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:22:48.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
