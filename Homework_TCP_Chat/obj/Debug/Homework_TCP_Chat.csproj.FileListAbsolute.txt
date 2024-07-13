@@ -13,3 +13,17 @@ C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Ch
 C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\bin\Debug\SimpleTCP.dll
 C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.CopyComplete
 C:\Users\Trung\source\repos\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.GiaoDien.resources
+D:\trung\NT106.TC\Homework_TCP_Chat\bin\Debug\Homework_TCP_Chat.exe.config
+D:\trung\NT106.TC\Homework_TCP_Chat\bin\Debug\Homework_TCP_Chat.exe
+D:\trung\NT106.TC\Homework_TCP_Chat\bin\Debug\Homework_TCP_Chat.pdb
+D:\trung\NT106.TC\Homework_TCP_Chat\bin\Debug\SimpleTCP.dll
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.AssemblyReference.cache
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.Cilent.resources
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.GiaoDien.resources
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.Properties.Resources.resources
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.Server.resources
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.GenerateResource.cache
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.csproj.CoreCompileInputs.cache
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework.21ED57FA.Up2Date
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.exe
+D:\trung\NT106.TC\Homework_TCP_Chat\obj\Debug\Homework_TCP_Chat.pdb

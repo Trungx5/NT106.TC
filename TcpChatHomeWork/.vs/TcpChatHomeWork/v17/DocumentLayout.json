@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|c:\\users\\hai nam\\desktop\\tcpnop\\tcpchathomework\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B18025-9403-405B-A1DE-5B2B33C8B32F}|Server\\Server.csproj|C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9B18025-9403-405B-A1DE-5B2B33C8B32F}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\client\\formprivatechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|solutionrelative:client\\formprivatechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\client\\formprivatechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|solutionrelative:client\\formprivatechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B18025-9403-405B-A1DE-5B2B33C8B32F}|Server\\Server.csproj|C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B18025-9403-405B-A1DE-5B2B33C8B32F}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B18025-9403-405B-A1DE-5B2B33C8B32F}|Server\\Server.csproj|C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\server\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B18025-9403-405B-A1DE-5B2B33C8B32F}|Server\\Server.csproj|solutionrelative:server\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\client\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD215-1CFE-4939-B7A8-F4985AFEB055}|Client\\Client.csproj|solutionrelative:client\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrivateChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\FormPrivateChat.cs",
+              "RelativeDocumentMoniker": "Client\\FormPrivateChat.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\FormPrivateChat.cs [Design]",
+              "RelativeToolTip": "Client\\FormPrivateChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:22:57.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:11:54.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Server\\Form1.cs [Design]",
+              "RelativeToolTip": "Server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:36:18.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAApwLgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:21:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrivateChat.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\FormPrivateChat.cs",
+              "RelativeDocumentMoniker": "Client\\FormPrivateChat.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\FormPrivateChat.cs",
+              "RelativeToolTip": "Client\\FormPrivateChat.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAtwD8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:34:29.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Server\\User.cs",
+              "RelativeDocumentMoniker": "Server\\User.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Server\\User.cs",
+              "RelativeToolTip": "Server\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:36:49.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Server\\Form1.cs",
+              "RelativeToolTip": "Server\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:38:40.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\User.cs",
+              "RelativeDocumentMoniker": "Client\\User.cs",
+              "ToolTip": "C:\\Users\\Hai Nam\\Desktop\\tcpnop\\TcpChatHomeWork\\Client\\User.cs",
+              "RelativeToolTip": "Client\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:22:20.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
